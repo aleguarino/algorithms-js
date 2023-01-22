@@ -14,5 +14,5 @@ const isPrime = number => {
     return number > 1;
 }
 
-console.log(isPrime(13))
+console.log(isPrime(9))
 //console.log(`${number} is ${(isPrime) ? '' : 'not '}a prime number`)
